@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "bossconfigurator",
+    "name": "BossConfigurator",
+    "description": "Plugin to customize Bosspokemon's movesets",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "NotKili"
+    ],
+    "credits": "Credits for Pixelmon to the Pixelmon Reforged Dev Team. https://reforged.gg/",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
