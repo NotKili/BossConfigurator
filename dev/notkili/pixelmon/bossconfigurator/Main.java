@@ -22,7 +22,7 @@ public class Main {
 
     public static final String MOD_ID = "bossconfigurator";
     public static final String MOD_NAME = "BossConfigurator";
-    public static final String VERSION = "1.0-Release";
+    public static final String VERSION = "1.1-Release";
 
     private Loader loader;
 
